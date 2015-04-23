@@ -1,0 +1,4 @@
+CONST A=35,B=49;
+VAR C,D,E;
+PROCEDURE P;
+    VAR G
